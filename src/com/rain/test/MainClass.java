@@ -45,5 +45,6 @@ public class MainClass {
          
          // 在 Java 8 中使用双冒号操作符(double colon operator)  
          players.forEach(System.out::println);  
+         System.out.println("测试用");
     }
 }
